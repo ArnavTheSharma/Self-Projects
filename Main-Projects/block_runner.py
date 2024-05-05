@@ -1,8 +1,8 @@
 import random
 import copy
 import tkinter as tk
-# import pygame
-# fps = pygame.time.Clock()
+import pygame
+fps = pygame.time.Clock()
 game = tk.Tk()
 game.resizable(False, False)
 game.title("maze runnah")
