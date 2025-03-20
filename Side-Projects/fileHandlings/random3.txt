@@ -1,0 +1,2 @@
+abbc, cabb, abbb, babb, aabb, abba, bbbc, cbbb, bbbb, bbba, abbb, abab, baba, cbab, babc, babb, bbab, cbcb, bcbc, abcb, bcba, bbcb, bbca, abbc, cbbc, cbba, acbb, bcbb, abba, bbaa, bbac, bacb, baab, bcab
+aabb, abab, abba, abbb, abbc, abcb, acbb, baab, baba, babb, babc, bacb, bbaa, bbab, bbac, bbba, bbbb, bbbc, bbca, bbcb, bcab, bcba, bcbb, bcbc, cabb, cbab, cbba, cbbb, cbbc, cbcb

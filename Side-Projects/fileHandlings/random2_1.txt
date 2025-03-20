@@ -1,0 +1,14 @@
+Natural Language Processing (NLP) - Text understanding, translation, sentiment analysis, chatbots, document processing
+Computer Vision (CV) - Image and video analysis, object detection, facial recognition, scene understanding
+Generative AI - Creating content like images, text, music, and code using models like GANs or transformers
+Reinforcement Learning - Training agents through reward systems, game AI, optimization, decision-making
+Robotics & Control - Robot navigation, manipulation, sensor integration, autonomous systems, drones
+Healthcare & Biomedical AI - Medical imaging, drug discovery, disease prediction, genomics
+AI Systems & Infrastructure - MLOps, model deployment, training, edge computing, scaling
+Speech Technologies - Voice recognition, speech synthesis, audio processing, voice assistants
+Time Series & Forecasting - Predictive analytics, financial forecasting, anomaly detection, sequential data
+Recommender Systems - Personalized recommendations, user preference modeling, collaborative filtering
+AI Ethics & Responsible AI - Bias detection, fairness metrics, model interpretability, ethical frameworks
+AI for Education - Personalized learning, automated grading, educational content generation
+AI for Gaming - Game strategy, NPC behavior, procedural content generation, player modeling
+Computer Graphics & AI - 3D modeling, animation, rendering optimization, virtual environments
