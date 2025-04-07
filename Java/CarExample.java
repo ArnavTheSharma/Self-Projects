@@ -2,7 +2,7 @@
 public class CarExample {
     public static void main(String args[]) {
         int x = 3;
-        boolean a = (x % 2);
+        boolean a = (x % 2 == 0);
         System.out.println(a);
         Car car1 = new Car("Tesla", "Model Y", "8YR329", 0);
         Car car2 = new Car("Honda", "Pilot", "8YR329", 40);

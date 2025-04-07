@@ -1,3 +1,5 @@
+// Sorting alg
+
 import java.util.LinkedList;
 import java.util.Arrays;
 import java.lang.Comparable;
@@ -176,7 +178,7 @@ public class Tree<T extends Comparable<T>> {
         }
     }
 
-different machine
+
     public static void main(String args[]) {
         LinkedList<Node<Integer>> list = new LinkedList<>();
         Node<Integer> node1 = new Node<>(1);
